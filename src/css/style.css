@@ -1,0 +1,6 @@
+input {
+  font-size: 1.5rem;
+  margin-inline: auto;
+  margin-top: env(safe-area-inset-top);
+  width: 90vw;
+}

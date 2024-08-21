@@ -1,0 +1,10 @@
+{
+  "appId": "com.ejshafran.scrollrecreation",
+  "appName": "scroll-ios-recreation",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
